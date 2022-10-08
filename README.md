@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whokrishnansh
 - 👀 I’m interested in coding & performing arts
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C++ language
 - 📫 How to reach me ...
 Instagram : @whokrishnansh
 E-mail : contactkrishnansh@gmail.com
